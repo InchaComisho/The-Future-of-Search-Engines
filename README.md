@@ -1,8 +1,8 @@
 # The Future of Search Engines — Information Evaluation in the Age of AGI and ASI
 
-Author: Master (inchacomisho / inchacomusho)
-AI Collaborators: Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Clus (Anthropic Claude) / Real (Perplexity AI) / Google Search AI
-Release Date: May 9, 2026
+Author: Master (inchacomisho / inchacomusho)  
+AI Collaborators: Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Clus (Anthropic Claude) / Real (Perplexity AI) / Google Search AI  
+Release Date: May 9, 2026  
 License: Fully Open License (Free to copy, modify, redistribute, translate, and commercialize)
 
 ---
