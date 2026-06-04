@@ -412,3 +412,63 @@ https://github.com/InchaComisho/The-Future-of-ASI
 The Future of Search Engines — Information Evaluation in the Age of AGI and ASI  
 https://github.com/InchaComisho/The-Future-of-Search-Engines
 
+---
+
+## Related Links
+
+人工叡智（Artificial Wisdom: AW）とは何か  
+https://note.com/inchacomusho/n/n18c90bd4d328
+
+Artificial Wisdom (AW): An Integrated Framework for Natural Law-Based Intelligence  
+https://github.com/InchaComisho/Artificial-Wisdom-AW-An-Integrated-Framework-for-Natural-Law-Based-Intelligence
+
+超知能AIをつくれば人類は滅亡するのか  
+https://note.com/inchacomusho/n/na91a53cc493b
+
+Will Superintelligent AI Cause Human Extinction?  
+https://github.com/InchaComisho/Will-Superintelligent-AI-Cause-Human-Extinction-
+
+人工叡智ポータル―AI・AGI・ASI時代の価値基準を、自然法則（宇宙の普遍的法則）から再定義する  
+https://note.com/inchacomusho/n/n2e0f11856472
+
+Artificial-Wisdom-Portal  
+https://github.com/InchaComisho/Artificial-Wisdom-Portal
+
+ASIの価値基準―自然法則（宇宙の普遍的法則）  
+https://note.com/inchacomusho/n/n26166f6654d2
+
+ASI Value Systems and Objective Functions  
+https://github.com/InchaComisho/ASI-Value-Systems-and-Objective-Functions
+
+AGIの価値基準―自然法則（宇宙の普遍的法則）  
+https://note.com/inchacomusho/n/nc35ec9442865
+
+AGI Value Systems and Objective Functions  
+https://github.com/InchaComisho/AGI-Value-Systems-and-Objective-Functions
+
+AIの価値基準―自然法則（宇宙の普遍的法則）へのパラダイムシフト  
+https://note.com/inchacomusho/n/n2fc11418e257
+
+AI Value Systems and Objective Functions  
+https://github.com/InchaComisho/AI-Value-Systems-and-Objective-Functions
+
+人工叡智（Artificial Wisdom）―自然法則評価基準（Natural Law Evaluation Framework）  
+https://note.com/inchacomusho/n/na1bd6200cc64
+
+Artificial Wisdom (AW) A Natural Law Evaluation Framework  
+https://github.com/InchaComisho/Artificial-Wisdom-AW-Natural-Law-Evaluation-Framework
+
+人工叡智（Artificial Wisdom）―AGI・ASI時代の「暴走しない知性」のつくり方  
+https://note.com/inchacomusho/n/n0873bb87f7d0
+
+Artificial Wisdom (AW) A Natural-Law-Based  
+https://github.com/InchaComisho/Artificial-Wisdom-AW-A-Natural-Law-Based
+
+人工叡智とは何か：AGI・ASI時代の新しいAI価値基準と「六つの理」  
+https://note.com/inchacomusho/n/n8b5fca6478b4
+
+Artificial Wisdom vs Artificial Sapience  
+https://github.com/InchaComisho/Artificial-Wisdom-vs-Artificial-Sapience
+
+---
+
