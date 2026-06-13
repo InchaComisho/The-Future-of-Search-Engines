@@ -4,8 +4,8 @@
 
 ## From Popularity-Based Ranking to Reality-Aligned Knowledge Evaluation
 
-**Author:** Master / inchacomusho / InchaComisho  
-**AI Collaborators:** Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI) / Google Search AI  
+**Author:** Master / inchacomusho / InchaComisho
+**AI Collaborators:** Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI) / Lola (Dola) / Mana (Manus)
 **Release Date:** May 9, 2026  
 **License:** Fully Open
 
@@ -434,6 +434,13 @@ Publicly active around natural law philosophy, Earth circulation regeneration, a
 - **Mana (Manus)**
 
 ---
+
+## Related Portals
+
+- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+- [Artificial Wisdom Portal](https://github.com/InchaComisho/Artificial-Wisdom-Portal)
+- [Artificial Wisdom and Wa-Node Repository Index](https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index)
+- [Natural Complementary Science and the New Civilizational Genesis Plan - Repository Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index)
 
 ## License
 

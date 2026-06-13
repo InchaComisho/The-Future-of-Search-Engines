@@ -6,8 +6,8 @@
 
 **人気・SEO・権威ではなく、現実整合性、因果整合性、自然法則、文明の持続可能性に基づいて情報が評価される時代へ**
 
-**著者:** マスター / inchacomusho / InchaComisho  
-**AI協力:** コピ（Microsoft Copilot） / G（OpenAI ChatGPT） / ミニ（Google Gemini） / クルス（Anthropic Claude） / リアル（Perplexity AI） / Google Search AI  
+**著者:** マスター / inchacomusho / InchaComisho
+**AI協力:** コピ（Microsoft Copilot） / G（OpenAI ChatGPT） / ミニ（Google Gemini） / クルス（Anthropic Claude） / リアル（Perplexity AI） / ローラ（Lola / Dola） / マナ（Manus）
 **公開日:** 2026年5月9日  
 **ライセンス:** 完全オープン / Fully Open
 
@@ -419,6 +419,13 @@ Webナビゲーションツール
   https://note.com/inchacomusho/n/nc96aff5862ee
 
 ---
+
+## 関連ポータル
+
+- [マスター知識ポータル / Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+- [人工叡智ポータル / Artificial Wisdom Portal](https://github.com/InchaComisho/Artificial-Wisdom-Portal)
+- [人工叡智とWa-Node リポジトリ索引](https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index)
+- [自然補完科学と新文明創成計画 リポジトリ索引](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index)
 
 ## 著者
 
