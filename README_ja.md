@@ -2,6 +2,8 @@
 
 **言語 / Language:** 日本語 | [English Version](README.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## The Future of Search Engines
 
 **人気・SEO・権威ではなく、現実整合性、因果整合性、自然法則、文明の持続可能性に基づいて情報が評価される時代へ**
