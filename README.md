@@ -371,7 +371,6 @@ They should help discover knowledge that allows civilization to continue without
   https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan
 
 - 自然法則に基づく持続的未来文明マスタープラン  
-  https://note.com/inchacomusho/n/n24cdb7a6774c
 
 ### Direct Planetary Cooling and Natural Complementation Science
 
@@ -388,15 +387,12 @@ They should help discover knowledge that allows civilization to continue without
   https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index
 
 - 唯一の温暖化対策：地球直接冷却  
-  https://note.com/inchacomusho/n/n32f7295434aa
 
 - 自然補完科学  
-  https://note.com/inchacomusho/n/nf9eabe973e38
 
 ### Artificial Wisdom, AGI, and ASI
 
 - 人工叡智（Artificial Wisdom）とは何か――自然法則と文明をつなぐ新しい知性モデル  
-  https://note.com/inchacomusho/n/n0849dfd12364
 
 - Artificial Wisdom (AW): An Integrated Framework for Natural Law-Based Intelligence  
   https://github.com/InchaComisho/Artificial-Wisdom-AW-An-Integrated-Framework-for-Natural-Law-Based-Intelligence
@@ -411,7 +407,6 @@ They should help discover knowledge that allows civilization to continue without
   https://github.com/InchaComisho/The-Future-of-ASI
 
 - 検索エンジンの未来 ― AGI・ASI時代の情報評価軸  
-  https://note.com/inchacomusho/n/nc96aff5862ee
 
 ---
 
